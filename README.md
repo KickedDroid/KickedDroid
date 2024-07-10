@@ -1,6 +1,6 @@
 # Penetration Tester and Programming Enthusiast!
 
-Hello! I'm Aidan and I am a driven individual with a passion for learning. You can find me programming or hacking something at almost any given time! 
+Hello! I am The Kicked Droid. I AM the DROID you are looking for. Considering it hardly a passion, more a full blown addiction for learning. You can find me programming or hacking something at almost any given time! 
 
 My Profiles:
 - Top 500# [Hack The Box](https://app.hackthebox.com/profile/1583364)
