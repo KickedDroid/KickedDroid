@@ -4,7 +4,7 @@ Hello! I am The Kicked Droid. I AM the DROID you are looking for. Considering it
 
 My Profiles:
 - Top 500# [Hack The Box](https://app.hackthebox.com/profile/1583364)
-- My Blog [Blog](kickeddroid.github.io)
+- My Blog [Blog](https://kickeddroid.github.io)
 
 ![image](https://github.com/KickedDroid/KickedDroid/assets/24928676/4a27002c-76a9-4512-9eee-b6dd06884453)
 
