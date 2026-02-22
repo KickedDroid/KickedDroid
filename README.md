@@ -4,8 +4,8 @@ Hello! I am The Kicked Droid. You can find me programming or hacking something a
 
 
 More about me:
-- 🏢 CPTS
-- ⚙️ I use daily: `.rs`, `.c` and `.py`, 
-- 💜 Interests: Videography, 3D Art, Psychology
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+- CPTS
+- I use daily: `.rs`, `.c` and `.py`, 
+- Interests: Videography, Art, Science 
+- Passionate about literally anything and everything
 ---
