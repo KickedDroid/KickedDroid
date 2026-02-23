@@ -9,5 +9,3 @@ More about me:
 - Interests: Videography, Art, Science 
 - Passionate about literally anything and everything
 ---
-
-<img src="https://github.com/KickedDroid/kickeddroid.github.io/blob/main/Assets/alien.png?raw=true" alt="Dark Forest Kali" />
